@@ -1154,7 +1154,7 @@
 "Warning! Empty value can cause problems with CSV format.","Attenzione! Non inserire un valore può causare problemi con il formato CSV."
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Attenzione!\r\nQuesta azione rimuoverà l\'utente dal ruolo già assegnato\r\nSei sicuro?"
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Attenzione!\r\nQuesta azione rimuoverà questi utenti dai ruoli già assegnati\r\nSei sicuro?"
-"Warning: Please do not close the window during importing/exporting data","Attenzione: Non chiudere la finestra durante l\'importazione/esportazione dati"
+"Warning: Please do not close the window during importing/exporting data","Attenzione: Non chiudere la finestra durante l'importazione/esportazione dati"
 "Watermark File for %s","Watermark File per %s"
 "We appreciate our merchants\' feedback, please <a href=""#"" onclick=""surveyAction(\'yes\'); return false;"">take our survey</a> to provide insight on the features you would like included in Magento. <a href=""#"" onclick=""surveyAction(\'no\'); return false;"">Remove this notification</a>","Apprezziamo i feedback dei nostri negozianti, per favore <a href=""#"" onclick=""surveyAction(\'yes\'); return false;"">partecipa al nostro sondaggio</a>per fornire indicazioni sulle caratteristiche che vorreste su  Magento. <a href=""#"" onclick=""surveyAction(\'no\'); return false;"">Rimuovi questa notifica</a>"
 "We\'re in our typing table, coding away more features for Magento. Thank you for your patience.","Nella nostra tabella di programmazione, stiamo includendo nuove opzioni per Magento. Grazie per la tua pazienza."
