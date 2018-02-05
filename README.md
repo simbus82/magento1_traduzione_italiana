@@ -17,7 +17,7 @@ Updated to Magento 1.9.3.7
 
 # Contribute
 You can help to improve the translation:
-[https://github.com/simbus82/magento1_traduzione_italiana]#
+https://github.com/simbus82/magento1_traduzione_italiana/issues
 
 
 
@@ -44,4 +44,4 @@ La traduzione è aggiornata a Magento 1.9.3.7
 
 # Contributo
 Puoi aiutarci nello sviluppo e mantenimento della traduzione italiana:
-[https://github.com/simbus82/magento1_traduzione_italiana]#
+https://github.com/simbus82/magento1_traduzione_italiana/issues
