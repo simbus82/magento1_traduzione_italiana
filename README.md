@@ -1,4 +1,4 @@
-# magento-italian-translation
+# Magento Italian Translation
 Magento 1.x - "Not so" Official Italian localization
 
 
@@ -24,7 +24,7 @@ You can help to improve the translation:
 
 =======================================================================================
 
-# magento-traduzione-italiana
+# Magento Traduzione Italiana
 Magento 1.x - Traduzione Italiana "quasi" ufficiale
 
 
